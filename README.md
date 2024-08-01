@@ -1,4 +1,6 @@
-# Programas-Python
+# Programas Python
+Todo el código se ha desarrollado en Spyder.
+
 En el código de la curva de Hilbert se utiliza el modelo de recursividad en que de cada ciclo de recursividad surgen varios ciclos más. "Divide y vencerás".
 Introduces un numero entero de input y dibuja un fractal de ese mismo orden.
 
